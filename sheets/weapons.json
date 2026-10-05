@@ -1,0 +1,93 @@
+[
+  {
+    "id": "wpn_wood_sword",
+    "name": "Wooden Sword",
+    "weapon_type": "Straight Sword",
+    "base_phys_atk": 85,
+    "weight": 2.0,
+    "stat_req_str": 8,
+    "stat_req_dex": 8,
+    "scaling_str": "D",
+    "scaling_dex": "D",
+    "icon_id": 9001,
+    "param_row_id": 10000000
+  },
+  {
+    "id": "wpn_stone_sword",
+    "name": "Stone Sword",
+    "weapon_type": "Straight Sword",
+    "base_phys_atk": 120,
+    "weight": 3.5,
+    "stat_req_str": 10,
+    "stat_req_dex": 8,
+    "scaling_str": "C",
+    "scaling_dex": "D",
+    "icon_id": 9002,
+    "param_row_id": 10000001
+  },
+  {
+    "id": "wpn_iron_sword",
+    "name": "Iron Sword",
+    "weapon_type": "Straight Sword",
+    "base_phys_atk": 165,
+    "weight": 4.0,
+    "stat_req_str": 12,
+    "stat_req_dex": 10,
+    "scaling_str": "C",
+    "scaling_dex": "C",
+    "icon_id": 9003,
+    "param_row_id": 10000002
+  },
+  {
+    "id": "wpn_diamond_sword",
+    "name": "Diamond Sword",
+    "weapon_type": "Straight Sword",
+    "base_phys_atk": 230,
+    "weight": 3.0,
+    "stat_req_str": 14,
+    "stat_req_dex": 12,
+    "scaling_str": "B",
+    "scaling_dex": "B",
+    "icon_id": 9004,
+    "param_row_id": 10000003
+  },
+  {
+    "id": "wpn_netherite_sword",
+    "name": "Netherite Sword",
+    "weapon_type": "Straight Sword",
+    "base_phys_atk": 295,
+    "weight": 4.5,
+    "stat_req_str": 16,
+    "stat_req_dex": 14,
+    "scaling_str": "A",
+    "scaling_dex": "B",
+    "icon_id": 9005,
+    "param_row_id": 10000004
+  },
+  {
+    "id": "wpn_wood_pickaxe",
+    "name": "Wooden Pickaxe",
+    "weapon_type": "Warhammer",
+    "base_phys_atk": 90,
+    "weight": 3.0,
+    "stat_req_str": 9,
+    "stat_req_dex": 6,
+    "scaling_str": "D",
+    "scaling_dex": "E",
+    "icon_id": 9010,
+    "param_row_id": 10000010
+  },
+  {
+    "id": "wpn_diamond_pickaxe",
+    "name": "Diamond Pickaxe",
+    "weapon_type": "Warhammer",
+    "base_phys_atk": 250,
+    "weight": 5.0,
+    "stat_req_str": 16,
+    "stat_req_dex": 8,
+    "scaling_str": "S",
+    "scaling_dex": "E",
+    "icon_id": 9011,
+    "param_row_id": 10000011
+  }
+]

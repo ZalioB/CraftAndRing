@@ -1,0 +1,29 @@
+[
+  {
+    "block_id": "blk_dirt",
+    "name": "Dirt Barricade",
+    "item_type": "Deployable Barrier",
+    "deploy_asset_id": "o_geo_dirt_wall_01",
+    "durability_hp": 150,
+    "max_active_instances": 5,
+    "craft_recipe_id": "rec_dirt_blk"
+  },
+  {
+    "block_id": "blk_cobblestone",
+    "name": "Cobblestone Wall",
+    "item_type": "Deployable Barrier",
+    "deploy_asset_id": "o_geo_cobble_wall_01",
+    "durability_hp": 600,
+    "max_active_instances": 10,
+    "craft_recipe_id": "rec_cobble_blk"
+  },
+  {
+    "block_id": "blk_obsidian",
+    "name": "Obsidian Shield Wall",
+    "item_type": "Deployable Barrier",
+    "deploy_asset_id": "o_geo_obsidian_wall_01",
+    "durability_hp": 2500,
+    "max_active_instances": 3,
+    "craft_recipe_id": "rec_obsidian_blk"
+  }
+]

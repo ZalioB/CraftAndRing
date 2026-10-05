@@ -1,0 +1,8 @@
+RowId,Name,PhysAtk,Weight,StrReq,DexReq,StrScaling,DexScaling
+10000000,Wooden Sword,85,2.0,8,8,D,D
+10000001,Stone Sword,120,3.5,10,8,C,D
+10000002,Iron Sword,165,4.0,12,10,C,C
+10000003,Diamond Sword,230,3.0,14,12,B,B
+10000004,Netherite Sword,295,4.5,16,14,A,B
+10000010,Wooden Pickaxe,90,3.0,9,6,D,E
+10000011,Diamond Pickaxe,250,5.0,16,8,S,E

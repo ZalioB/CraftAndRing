@@ -1,0 +1,26 @@
+[
+  {
+    "hook_id": "hk_equip_weapon",
+    "target_param": "EquipParamWeapon",
+    "description": "Overrides starter straight swords and warhammers with Minecraft weapons data",
+    "status": "Verified"
+  },
+  {
+    "hook_id": "hk_crafting_recipes",
+    "target_param": "ShopLineupParam",
+    "description": "Adds Minecraft item crafting recipes to the in-game Crafting Kit menu",
+    "status": "Verified"
+  },
+  {
+    "hook_id": "hk_enemy_loot",
+    "target_param": "ItemLotParam",
+    "description": "Hooks enemy drop tables to drop Minecraft planks, stone, ingots, diamonds, scrap",
+    "status": "Verified"
+  },
+  {
+    "hook_id": "hk_deployable_goods",
+    "target_param": "EquipParamGoods",
+    "description": "Defines consumable block items that invoke spawn asset subroutines for barricades",
+    "status": "Verified"
+  }
+]

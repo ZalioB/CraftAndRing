@@ -1,0 +1,37 @@
+[
+  {
+    "material_id": "mat_wood_plank",
+    "name": "Oak Plank",
+    "source_enemy_type": "Limgrave Wandering Soldiers",
+    "drop_rate_percent": 80,
+    "max_stack_size": 99
+  },
+  {
+    "material_id": "mat_cobblestone",
+    "name": "Cobblestone Block",
+    "source_enemy_type": "Raya Lucaria Miners / Trolls",
+    "drop_rate_percent": 70,
+    "max_stack_size": 99
+  },
+  {
+    "material_id": "mat_iron_ingot",
+    "name": "Iron Ingot",
+    "source_enemy_type": "Godrick Knights & Soldiers",
+    "drop_rate_percent": 45,
+    "max_stack_size": 99
+  },
+  {
+    "material_id": "mat_diamond",
+    "name": "Minecraft Diamond",
+    "source_enemy_type": "Troll Bosses & Crucible Knights",
+    "drop_rate_percent": 20,
+    "max_stack_size": 64
+  },
+  {
+    "material_id": "mat_netherite_scrap",
+    "name": "Netherite Scrap",
+    "source_enemy_type": "Remembrance Bosses & Fire Giants",
+    "drop_rate_percent": 100,
+    "max_stack_size": 16
+  }
+]

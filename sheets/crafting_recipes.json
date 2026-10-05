@@ -1,0 +1,102 @@
+[
+  {
+    "recipe_id": "rec_wood_sword",
+    "result_item_id": "wpn_wood_sword",
+    "result_quantity": 1,
+    "material_1_id": "mat_wood_plank",
+    "material_1_qty": 2,
+    "material_2_id": "none",
+    "material_2_qty": 0,
+    "craft_location": "Crafting Kit / Site of Grace"
+  },
+  {
+    "recipe_id": "rec_stone_sword",
+    "result_item_id": "wpn_stone_sword",
+    "result_quantity": 1,
+    "material_1_id": "mat_cobblestone",
+    "material_1_qty": 3,
+    "material_2_id": "mat_wood_plank",
+    "material_2_qty": 1,
+    "craft_location": "Crafting Kit / Site of Grace"
+  },
+  {
+    "recipe_id": "rec_iron_sword",
+    "result_item_id": "wpn_iron_sword",
+    "result_quantity": 1,
+    "material_1_id": "mat_iron_ingot",
+    "material_1_qty": 3,
+    "material_2_id": "mat_wood_plank",
+    "material_2_qty": 1,
+    "craft_location": "Crafting Kit / Site of Grace"
+  },
+  {
+    "recipe_id": "rec_diamond_sword",
+    "result_item_id": "wpn_diamond_sword",
+    "result_quantity": 1,
+    "material_1_id": "mat_diamond",
+    "material_1_qty": 2,
+    "material_2_id": "mat_wood_plank",
+    "material_2_qty": 1,
+    "craft_location": "Crafting Kit / Site of Grace"
+  },
+  {
+    "recipe_id": "rec_netherite_sword",
+    "result_item_id": "wpn_netherite_sword",
+    "result_quantity": 1,
+    "material_1_id": "mat_netherite_scrap",
+    "material_1_qty": 2,
+    "material_2_id": "wpn_diamond_sword",
+    "material_2_qty": 1,
+    "craft_location": "Crafting Kit / Site of Grace"
+  },
+  {
+    "recipe_id": "rec_wood_pick",
+    "result_item_id": "wpn_wood_pickaxe",
+    "result_quantity": 1,
+    "material_1_id": "mat_wood_plank",
+    "material_1_qty": 3,
+    "material_2_id": "none",
+    "material_2_qty": 0,
+    "craft_location": "Crafting Kit / Site of Grace"
+  },
+  {
+    "recipe_id": "rec_diamond_pick",
+    "result_item_id": "wpn_diamond_pickaxe",
+    "result_quantity": 1,
+    "material_1_id": "mat_diamond",
+    "material_1_qty": 3,
+    "material_2_id": "mat_wood_plank",
+    "material_2_qty": 2,
+    "craft_location": "Crafting Kit / Site of Grace"
+  },
+  {
+    "recipe_id": "rec_dirt_blk",
+    "result_item_id": "blk_dirt",
+    "result_quantity": 5,
+    "material_1_id": "mat_wood_plank",
+    "material_1_qty": 1,
+    "material_2_id": "none",
+    "material_2_qty": 0,
+    "craft_location": "Crafting Kit / Site of Grace"
+  },
+  {
+    "recipe_id": "rec_cobble_blk",
+    "result_item_id": "blk_cobblestone",
+    "result_quantity": 5,
+    "material_1_id": "mat_cobblestone",
+    "material_1_qty": 2,
+    "material_2_id": "none",
+    "material_2_qty": 0,
+    "craft_location": "Crafting Kit / Site of Grace"
+  },
+  {
+    "recipe_id": "rec_obsidian_blk",
+    "result_item_id": "blk_obsidian",
+    "result_quantity": 2,
+    "material_1_id": "mat_cobblestone",
+    "material_1_qty": 5,
+    "material_2_id": "mat_diamond",
+    "material_2_qty": 1,
+    "craft_location": "Crafting Kit / Site of Grace"
+  }
+]
