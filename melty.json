@@ -12,13 +12,13 @@
     }
   ],
   "components": [
-    {
-      "fileName": "CraftAndRing_*.zip",
-      "modEngine2": {
-        "modFolder": "mod"
-      }
+  {
+    "fileName": "CraftAndRing_v1.0.zip",
+    "modEngine2": {
+      "modFolder": "mod"
     }
-  ],
+  }
+],
   "license": "MIT",
   "allowRemix": true,
   "credits": [
