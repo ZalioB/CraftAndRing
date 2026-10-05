@@ -1,5 +1,5 @@
 {
-  "$schema": "https://melty.gg/schema/recipe.v1.json",
+  "schemaVersion": 1,
   "name": "Craft & Ring",
   "version": "1.0.0",
   "title": "Craft & Ring: Minecraft Tiered Progression & Barricades",
@@ -23,7 +23,9 @@
   "license": "MIT",
   "allowRemix": true,
   "credits": [
-    { "name": "Craft & Ring Modder", "role": "Mashup Creator" }
+    { "name": "Craft & Ring Modder", "role": "Mashup Creator" },
+    { "name": "Mojang Studios", "role": "Original Minecraft Assets & Audio Inspiration" },
+    { "name": "FromSoftware", "role": "Elden Ring Host Engine" }
   ],
   "singleplayer": true,
   "oneClick": true
