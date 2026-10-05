@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "title": "Craft & Ring: Minecraft Tiered Progression & Barricades",
   "tagline": "Forge Minecraft gear, mine materials from bosses, and drop physical block barricades in Elden Ring!",
-  "description": "Craft & Ring brings Minecraft's iconic tiered progression and tactical block placement directly into Elden Ring's Lands Between. Start Limgrave with humble Wooden & Stone tools, hunt down enemies and boss drop materials, and craft Iron, Diamond, and Netherite weapons at Sites of Grace. Deploy physical Cobblestone and Dirt block barricades in mid-combat for tactical cover and defense!",
+  "description": "Craft & Ring brings Minecraft's iconic tiered progression and tactical block placement directly into Elden Ring's Lands Between.",
   "games": [
     {
       "gameId": "elden-ring",
@@ -23,18 +23,7 @@
   "license": "MIT",
   "allowRemix": true,
   "credits": [
-    {
-      "name": "Craft & Ring Modder",
-      "role": "Mashup Creator"
-    },
-    {
-      "name": "Mojang Studios",
-      "role": "Original Minecraft Assets & Audio Inspiration"
-    },
-    {
-      "name": "FromSoftware",
-      "role": "Elden Ring Host Engine"
-    }
+    { "name": "Craft & Ring Modder", "role": "Mashup Creator" }
   ],
   "singleplayer": true,
   "oneClick": true
